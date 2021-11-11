@@ -15,7 +15,7 @@ This code is used to realize the automatic segmentation of the orbital region of
 # 3.Usage
 ## 3-1.segmentation
 The code for segmentation is in the folder of "0 segmentation".
-You can find out how to use it in this repository[UNet++](https://github.com/4uiiurz1/pytorch-nested-unet)
+You can find out how to use it in this repository [UNet++](https://github.com/4uiiurz1/pytorch-nested-unet)
 
 ## 3-2.automatic measurement of the area and height of the segmented bony orbit
 The code for segmentation is in the folder of "1 calculation".

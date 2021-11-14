@@ -1,5 +1,5 @@
 # UNet-bony-orbits
-Exploring the aging of bony orbits based on an segmentation network
+Exploring the aging of bony orbits based on a segmentation network
 
 # 1.BackGround
 This code is used to realize the automatic segmentation of the orbital region of the facial and skull image, and then realize the automatic measurement of the area and height of the segmented bony orbit. The craniofacial image dataset should be prepared of skull CT scanning data in DICOM format. You can use this code to quickly verify larger samples.
